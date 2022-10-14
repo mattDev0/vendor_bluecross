@@ -39,11 +39,6 @@ PRODUCT_COPY_FILES += \
 
 PRODUCT_PACKAGES += \
     datastatusnotification \
-    MobileFeliCaClient \
-    MobileFeliCaMenuMainApp \
-    MobileFeliCaSettingApp \
-    MobileFeliCaWebPlugin \
-    MobileFeliCaWebPluginBoot \
     com.qualcomm.qti.services.secureui \
     EuiccGoogle \
     HotwordEnrollmentOKGoogleWCD9340 \
